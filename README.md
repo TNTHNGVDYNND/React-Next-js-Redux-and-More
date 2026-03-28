@@ -59,6 +59,38 @@ Master modern React from beginner to advanced! Next.js, Context API, React Query
 - **Platform:** Udemy
 - **Link:** [The Ultimate React Course 2025 - Udemy](https://www.udemy.com/course/the-ultimate-react-course/) - [Github](https://github.com/jonasschmedtmann/ultimate-react-course).
 
+## Recap Learning Goals
+
+- Review and practice all 10 projects from the course
+- Strengthen understanding of React fundamentals and advanced concepts
+- Upgrade dependencies to latest 2026 versions after completing each project
+- Modernize architecture and add new features where appropriate
+
+## Setup
+
+### VS Code Snippets
+Custom snippets are configured in `00-setup/snippets.json` for faster development:
+
+| Prefix | Description |
+| ------ | ----------- |
+| `cl`   | console.log() |
+| `rfc`  | React functional component |
+| `rsc`  | React styled component |
+
+**How to use:**
+1. Copy `00-setup/snippets.json` content
+2. Open VS Code: Settings → Preferences: Open User Snippets
+3. New Global Snippets File → name it `react-snippets`
+4. Paste the content and save
+
+Now type the prefix (e.g., `rfc`) in any JS/TS file and press Tab to expand.
+
+## Future Development
+
+- Modernize project architecture with latest React patterns
+- Add new features to existing projects
+- Stay up-to-date with React ecosystem
+
 ## Disclaimer
 
 This code is for learning purposes only. All credit for the original course content and project designs goes to Jonas Schmedtmann.
